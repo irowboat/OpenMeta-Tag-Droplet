@@ -26,11 +26,11 @@
 	<key>CFBundleIconFile</key>
 	<string>droplet</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.ScriptEditor.id.Apply-This-Name-As-OpenMeta-Tag</string>
+	<string>com.apple.ScriptEditor.id.OpenMeta-Tag-Droplet</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Apply This Name As OpenMeta Tag</string>
+	<string>OpenMeta Tag Droplet</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleSignature</key>
@@ -53,9 +53,9 @@
 		<key>positionOfDivider</key>
 		<real>491</real>
 		<key>savedFrame</key>
-		<string>27 170 632 844 0 0 1680 1028 </string>
+		<string>27 170 952 844 0 0 1680 1028 </string>
 		<key>selectedTabView</key>
-		<string>description</string>
+		<string>event log</string>
 	</dict>
 </dict>
 </plist>
